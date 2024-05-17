@@ -5,7 +5,7 @@
   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandofranco06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   -->
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofranco06&layout=compact&langs_count=16&theme=dark"/>
+  <img align="middle" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofranco06&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <img align="right" height="80" width="auto" alt="coffee-mug" src="https://media4.giphy.com/media/XrQBv6QBqk6q52PzAo/giphy.gif?cid=6c09b952lq0881knkh4imbshx89605md3o0hsglw4s9e6kq7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
